@@ -84,7 +84,7 @@ function App() {
                                 />
                             </a>
 
-                            <a href={'mailto:hello@innovacloud.it'} rel='noreferrer' target={'_blank'}
+                            <a href={'mailto:hello@innovacloud.io'} rel='noreferrer' target={'_blank'}
                                 style={{
                                     fontSize: '0.85em',
                                     margin: '28px 0',
@@ -95,7 +95,7 @@ function App() {
                                 }}
                             >
                                 <CustomTypewriter
-                                    strings={['hello@innovacloud.it']}
+                                    strings={['hello@innovacloud.io']}
                                     endOfLoopDelay={4000}
                                     loop={false}
                                     initialDelay={8000}
@@ -105,7 +105,7 @@ function App() {
                     </tr>
                 </table>
 
-                <div style={{textAlign: 'left', fontSize: '0.6em', marginBottom: '8px', width: 'calc(100% - 16px)', opacity: '75%', minHeight: '16px'}}>
+                <div style={{textAlign: 'left', fontSize: '0.5em', marginBottom: '8px', width: 'calc(100% - 16px)', opacity: '75%', minHeight: '16px'}}>
                     <CustomTypewriter
                         strings={['Innova Cloud è un marchio di Cristian Livella, CF: LVLCST01C14A794K, P. IVA: IT04368210169']}
                         endOfLoopDelay={2000}
